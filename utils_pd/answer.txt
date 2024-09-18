@@ -1,0 +1,2800 @@
+Go forward to the end, after that turn left and continue to the end, then turn right to face the ATM.
+The store can be accessed through the door on the right hand side.
+First go through the nearest door, and then go straight ahead, open the door, go through the door to leave the house.
+Walk forward to the end, turn right, and walk a few steps until the glass door is on the left. Turn left, open the glass door, and walk out of the room.
+Stand up, turn right, walk forward until you get to the curtains.
+Yes
+Turn right and walk straight until there is a walk on your left. Turn left and walk straight until the door is on your right. Turn right and walk through the door to get out of this room..
+No.
+Take one or two steps forward, then turn left and continue walking.
+Turn right and walk a few steps.
+Walk straight for a few steps.
+Turn left and then walk a few steps.
+Turn right.
+Turn right and then walk a few steps to reach the door.
+Turn left and walk to the side of the road. Turn right then walk a few steps.
+Stand up and walk forward until you're in front of a pile of mats. Turn left, take a step or two, then turn right.
+Turn right and then walk a few steps until the chair is on your left.
+Turn left and walk to the end. Then turn right to leave the cubicle.
+Go straight forward until there are steps in front of you, then go up the two steps.
+Turn left and then walk straight until the rubbish bin is in front of you.
+Stand up first, then turn left and walk to the edge of the table. Turn right and walk straight to the blue sofa.
+Walk forward to the end of the corridor, then turn right and walk to the end. Finally, turn right and go down the stairs.
+Stand up, turn right and walk to the corner of the table. Turn left and go straight along the edge of the table. Finally, turn left and keep walking forward until the sofa is in front of you.
+Turn left, cross the planks, and go straight forward.
+Stand up then turn right and take two or three steps to get past the chair. Turn left and walk straight forward until the small table is on your left. Turn left and keep walking straight ahead, the small table will be right in front of you.
+Go downstairs and then turn right. Walk a few steps and the pink swim ring is in front of you.
+Walk straight until the room is on your right. Turn right and then walk straight to enter the room
+Turn left and go straight, opening the door to exit the kitchen.
+Stand up, then turn left and take a step or two. Turn right, go straight, and exit the room through the door.
+Go forward and down the stairs. Then turn left and go straight until the red bucket is on your right. Finally turn right and keep walking forward until the red bucket is in front of you.
+Simply walk forward.
+Turn left and walk straight to the step. Go up the step and walk out the door.
+Turn right and go straight until there are steps going down on the left. Turn left and walk down the steps to the meadow.
+Stand up, then turn right and go to the end. Turn left, walk forward, and exit this room through the door.
+Walk straight, and then walk into the door to enter the room
+Turn right and go straight until the door is on your right. Turn right and go straight to get out of this room.
+Walk straight until the end. Turn right and walk a few steps until there is a path on your left. Turn left and get out of the kithecn through the path.
+Turn left and walk a few steps until there is a hallway on your right. Turn right and then walk straight to cross the door and the red car is in front of you.
+Walk straight to get out of this room through the door and navigate around the chairs and tables to avoid bumping into them.
+Yes.
+Go straight.
+Stand up, turn left and walk straight until the door is on your right. Turn right, navigate around the chairs and tables to avoid bumping into them and walk straight to the door.
+Turn right.
+Walk down the stairs and then go straight until the grey sofa is on your right. Turn right and then walk a few steps.
+Turn right and then walk straight until the dinning table is in front of you.
+Walk straight until the chair is on your left. Turn left and then walk a few steps until the chair is in front of you.
+Turn left.
+Walk straight until there is a path on your right. Turn right and walk straight until the white sofa is on your left. Turn left and then walk one or two steps.
+Walk straight until the yellow car is on your left. Turn left and then walk a few steps until the yellow car is in front of you.
+Walk straight to the end and then turn left. Walk straight until the bags are on your right. Turn right and then walk straight until the bags are in front of you.
+tightening the screws
+cultivating plants
+watching the phone
+washing cups
+playing golf
+pruning branches
+yes
+yes
+Cutting vegetables
+folding clothes
+Shoveling stones
+yes
+peeling the avocado
+selecting products
+putting ice into a bottle
+repairing shoes
+no
+riding bicycle
+watering
+playing poker
+no
+painting the wall
+repairing a bicycle
+yes
+watering the plants
+no
+pouring yogurt into the bowl
+measuring the length
+playing computer games
+yes
+knitting a sweater
+yes
+recording a video
+picking grapes
+walking on the street
+yes
+yes
+moving a plank
+painting
+driving a car
+wiping a spoon
+filling a pot with water
+cutting a stick
+yes
+sweeping the floor
+no
+reading a book
+yes
+drawing a semicircle
+pruning the branches
+yes
+making a fire
+washing a pot
+pouring tea to the cup
+washing my hands
+putting the plug in the socket
+pouring water into the pool
+climbing the mountain
+watching videos
+washing a cup
+yes
+yes
+stirring the eggs
+taking photos
+cooking
+cleaning the bathroom
+using the map to navigate
+yes
+cooking
+weaving.
+climbing the stairs.
+playing chess.
+installing flooring.
+repairing the machine.
+repairing the machine.
+building a wall.
+Playing the piano.
+walking the dog.
+cutting carton.
+frying eggs.
+Tearing tape.
+Ironing clothes.
+Drawing.
+Kneading the dough.
+Hoeing.
+Using microwave.
+Cutting hair.
+Painting nails.
+Peeling walnuts.
+Cleaning handrail.
+Washing the car.
+Decorating a Christmas tree.
+Sharpening the knife.
+Choosing clothes.
+putting up a poster.
+Reading a magazine.
+Installing a bench.
+wearing gloves.
+Weeding the garden.
+washing the mop.
+it is made of transparent material
+yes
+no
+sharp
+Longer than my fingers
+yes
+white
+blue
+orange
+yes
+it is solid
+yellow
+blue
+wooden
+it is rusty
+it is porous
+rectangular
+black
+no
+it is not made of plastic
+liquid
+it is made of ceramic
+no
+it is a vegetable
+metal
+plastic
+it is cylindrical.
+yes
+the thing I'm cutting has striples
+pink
+yes
+serrated
+green
+smooth
+no
+liquid
+blue
+green
+it is made of sponge
+wooden
+white
+it is reflective
+black and white
+plastic
+dark red
+it is made of cloth
+shorter than my left foot
+blue
+it is not flat
+it is made of paper
+On my right.
+No.
+No.
+Donuts.
+In front of me.
+A helmet.
+No.
+Yes
+Both.
+On my right.
+On my left.
+No.
+On my left.
+Headphones.
+Left.
+Left.
+A brush.
+On my left.
+Left.
+On my right.
+Microwave oven.
+Card reader.
+Both.
+Left.
+Yes.
+In front of me.
+Yes.
+Left.
+On the table in front of me.
+Both.
+A golf ball.
+A wire fence.
+A red car.
+the left side.
+a little spade.
+A mirror.
+Grey.
+Left.
+Yoga mat.
+Left.
+green.
+right.
+left.
+Pipelines.
+right.
+A stick.
+right.
+three.
+boxes.
+On my left.
+One.
+Three.
+One.
+The second level.
+One.
+Two.
+First shelf.
+Two.
+One.
+One.
+It is four.
+Two.
+One.
+Two.
+Three.
+One.
+On my left.
+Two.
+More bowls on my right.
+One.
+One.
+One.
+One.
+One.
+Two.
+One.
+One.
+One.
+One.
+No.
+One.
+Two.
+No.
+Two.
+Yes.
+One.
+There are more planks on the left side of my left hand.
+One.
+No.
+Two.
+On the left of my right hand.
+One.
+Three.
+One.
+Two.
+Two.
+Three.
+Two.
+One.
+One.
+Play baseball.
+Cut the grass.
+Left.
+Downstairs.
+Open the cabinet.
+Take out the mushrooms.
+Cook.
+Open the lid of the bucket.
+Upstairs.
+Clothes.
+Roll the dough.
+Take out the cabbage.
+Open the fridge.
+Mop the floor.
+Iron the shirt
+Cut plants.
+Open the car door.
+Haircut.
+Paint the board.
+Fasten it.
+Measure the board.
+Wipe the cat.
+Paint the wall.
+Add water.
+Serve rice.
+Clean the desk.
+The white raddish.
+Inflate the tire.
+Yes.
+Into two pieces.
+Blue.
+On
+Yes.
+Milk foam.
+Cut lemon from the branch.
+Into the plank.
+In the pot.
+Yes.
+No.
+Water.
+Pour water.
+Peel the onion.
+Pour the noodle to the plate.
+Wash clothes.
+Soup.
+Yes.
+In the basket.
+Yes.
+Open it.
+Plant the tree.
+In the fridge.
+Coffee machine.
+Yes.
+Clean the floor.
+Yes.
+In the washing machine.
+Stir milk.
+On the desk.
+Pour the cement into the mixer.
+Yes.
+White.
+Two.
+No.
+Golden.
+Prune the leaves.
+Open the drawer.
+Remove the handle of the eggplant.
+Yes.
+Ice.
+Hot.
+Pour the ice to the cup.
+Softer.
+Yes.
+Empty the pot.
+larger.
+Put on my shoes.
+Plate.
+No.
+Cut the paper.
+Increase.
+Yes.
+Clean it.
+Wash the brush.
+Drier.
+Yes.
+The car.
+No.
+Paint on the paper.
+Cut it.
+Pick flowers.
+Yes.
+Lift the brown tool.
+IPad.
+Connect the wire to the lamp.
+Mow grass.
+Wash the car.
+Open the tap.
+Yes.
+To the bucket.
+Yes.
+The sink.
+The pot containing water.
+The porcelain plate.
+The cabinet far away from my right hand.
+The table in front of me.
+yes.
+No.
+The pot in my hand.
+The same as the number of phones in my hand.
+No
+The blue thing.
+The pot I'm holding.
+Yes.
+The pot.
+Color.
+One.
+Yes.
+Equal in number.
+The book.
+The black pillow.
+Banana.
+Green.
+The left one.
+On the table.
+The left one.
+The yellow one.
+The coffee.
+The white one.
+The thread in my hand.
+No.
+Same.
+Green.
+Different.
+There are more bowls on my right.
+On my left.
+To my left.
+No.
+Yes.
+Same type of items.
+Yes.
+On my right.
+There are less mats holding in my hands.
+There are less rocks on my left.
+No.
+The plank in my hands.
+The pen.
+The larger bowl.
+No.
+In my hands.
+On my left.
+In the kitchen.
+Living room.
+Cooking food.
+On the lawn.
+In the washroom.
+In the library.
+Car.
+In a lab.
+In a grocery.
+In the pharmacy.
+yes.
+Outdoor.
+No.
+No.
+Timber.
+Bed.
+In the backyard.
+Clothing store.
+In the parking lot.
+Cosmetic store.
+Forest.
+At the cashier.
+Yes.
+Car repair shop.
+By the window.
+In the dormitory.
+On the road.
+In the staircase.
+The dining room.
+No.
+Yes.
+yes.
+No.
+At home.
+On the balcony.
+Indoors.
+Camping.
+The study.
+In the barber shop.
+indoors.
+In a gym.
+In a car.
+On a golf course.
+On the country lane.
+Bakery.
+vineyard.
+outside.
+at school.
+In the fields.
+In the kitchen.
+standing on the ladder.
+Playing.
+To keep my hands from burning.
+In the living room.
+Chemistry.
+Break it.
+To feel the temperature of the pan.
+No.
+A Christmas tree.
+A shopping list.
+Yes.
+Going downstairs.
+To learn how to cook.
+No.
+Peeling the carrots.
+To the bowl.
+Brick mold.
+Right-handed.
+A cementer.
+Warehouse.
+having a party.
+In a shop.
+Yes.
+Yes.
+Yes.
+An elderly person.
+A coach.
+Viewing photos.
+Kitchen.
+No.
+No.
+A painting.
+It's myself.
+Checking the calendar.
+No.
+No.
+On the iPad.
+Yes.
+Study.
+Women.
+Right.
+Alive.
+Hot.
+the ceiling.
+my phone.
+ketchup.
+No.
+cooked.
+sitting.
+yes.
+a sneaker
+secateur
+screwdriver
+a wooden board
+yes
+A vacuum cleaner
+A hairclipper
+scissors
+Eggs
+a knife
+a hoe
+a steering wheel
+radish
+a bicycle tyre
+pasta
+bowls
+cactus
+a electirc drill
+a refrigerator
+yes
+yes
+yes
+chopsticks
+phone
+A bicycle
+yes
+yes
+yes
+yes
+a pot
+a guitar
+scissors
+a shovel
+a knife
+yes
+yes
+yes
+yes
+a spatula
+yes
+a pen
+a pot
+a cart
+a needle
+an iron
+branches
+yarn balls
+a mouse
+a fork
+skin-peeler
+yes
+painting
+yes
+painting the wall
+to protect my hands
+yes
+paint tray
+provide the time
+yes
+riding
+mowing
+serving food
+inflate a tire
+yes
+yes
+Controlling the water flow
+yes
+drink
+yes
+Eating food
+yes
+yes
+cutting
+weaving
+carrying belongings
+block light
+yes
+yes
+no
+no
+watering
+Mopping
+no
+bind objects
+cleaning
+yes
+yes
+holding water
+drawing vertical lines
+screwing
+filtering out the water
+braking
+smoothing the plank
+painting
+insulating heat
+peeling
+cleaning
+both
+I can use it to control direction
+cutting food
+Take the wrench on the thigh, and put it on the screw on the inside of the round object, then turn the wrench to loosen the screw.
+Count the number of plants in your hand, then select empty pots based on the number, and plant the plants in your hand into the pots.
+Walk to it and press down on the lid.
+Compare all the scissors, find the largest scissor which is near your right feet, and pick up this scissor.
+Pick up the cat, then turn around and walk out of the bathroom, putting the cat on the floor.
+Pick up the white bottle of milk which is on the desk, and pour the milk into the bowl in your left hand.
+Turn the thing in front of you (the steering wheel) to the right.
+Pick up the remote control and put it on the table, then pick up the magazine, open it and start reading.
+Pick up the meat and use the yellow tool (scissor) in your hand to cut the plastic wrap.
+Pick up the paper in your left hand and tear one piece of paper. Use this piece of paper to wipe the cup.
+Open the lid of the bottle, pick up the kettle, pour the water from the kettle into the bottle, and tighten the lid of the bottle.
+Go to the tripod and pick up the balloon on the ground. Then walk to the sofa and put the balloon in your hand on the sofa.
+Pick up the black cell phone on the glass table, walk over to the table with the TV, and put the black cell phone on this table.
+Tap it firmly against the edge of the bowl to crack the shell and then use your fingers to gently pull the two halves apart over the bowl.
+Large white transparent cup.
+Microwave on the right.
+The fridge.
+Find the position of the soy sauce, and pick one bottle of soy sauce.
+Put it into the sink, and turn on the faucet to rinse it.
+Raise your left wrist to wake the watch face or tap the screen, and then glance at the display to see the time.
+No
+Press the second floor button of the elevator, and when the elevator reaches the second floor and the door opens, step out of the elevator.
+Find the white plate with the chopped things on your right, pick up the white plate, and pour the contents of the plate into the pan.
+The glass. Find the location of the glass on the table, and pick it up.
+Turn on the faucet, apply dish soap to the items in your hands, and then rinse them under the faucet until there is no more foam.
+Open the lid of the container, locate the plate and pour the contents into the plate.
+Yes.
+Hold the thing in your left hand and use your hand to slide the knife under the skin and strip it away from the flesh.
+Place the paper on the cutting mat, put the knife on where you want to divide, and then press down and slide the blade across the paper.
+Put the branches between the scissor blades, squeeze the handles, and cut the branches.
+Open the tap, rinse it under running water, apply detergent on it, scrub it, and finally rinse again until the water runs clear.
+Use the tool in your hands to turn over the top layer of soil.
+Align its edge with the board, locate the 0 cm mark at the start, and mark the board at the 3 cm mark on it.
+Use your hand to apply pressure, and rub back and forth along the the wood.
+Hold the coconut firmly and apply pressure between the coconut and husk, then peel the husk.
+Spread it over the wall and smooth it using the tool holding in your right hand.
+Divide the cards into two piles and then mix them up, repeating several times.
+Walk straight until the car is next to you, put it on the floor of the car and lay it flat.
+Type your message using the keyboard, and then press the send button.
+Locate the card numbered 4, hold it between your fingers, and then place it to the pile on the desk.
+Take away the bottle on the scale, make sure the scale is turned on and set to zero, then place the thing in your hands on the scale's platform and read the weight.
+Open the bag with my left hand and insert the thing holding in your right hand, ensuring the bag is upright
+Flick the whip to the side to create a sound or gentle tap, making it to move forward without hitting it.
+Open the tap, rinse it under running water, apply detergent, scrub it with a sponge, and then rinse off the detergent.
+Put the paintbrush into the brown bottle which contains water, swirl the paintbrush in it for a few times, and then wipe it against the bottle's edge.
+Unscrew the cap of the bottle holding in your right hand, open the tap, hold it under a running tap until the bottle is full of water, turn off the tap and screw the cap on.
+Sweep it along the handrail's surface, ensuring you clean crevices and grooves to remove all the dust.
+Shape the thing in your hands into a mold on your right front, press it firmly, and then dry it in the sun until it hardens.
+Locate the handle, pull it using your right hand, and then push the door outward.
+Grip the handle of the thing holding in your right hand, swing the blade close to the ground to cut the grass.
+Go forward to the end, after that turn left and continue to the end, then turn right to face the ATM.
+The store can be accessed through the door on the right hand side.
+First go through the nearest door, and then go straight ahead, open the door, go through the door to leave the house.
+Walk forward to the end, turn right, and walk a few steps until the glass door is on the left. Turn left, open the glass door, and walk out of the room.
+Stand up, turn right, walk forward until you get to the curtains.
+Yes
+Turn right and walk straight until there is a walk on your left. Turn left and walk straight until the door is on your right. Turn right and walk through the door to get out of this room..
+No.
+Take one or two steps forward, then turn left and continue walking.
+Turn right and walk a few steps.
+Walk straight for a few steps.
+Turn left and then walk a few steps.
+Turn right.
+Turn right and then walk a few steps to reach the door.
+Turn left and walk to the side of the road. Turn right then walk a few steps.
+Stand up and walk forward until you're in front of a pile of mats. Turn left, take a step or two, then turn right.
+Turn right and then walk a few steps until the chair is on your left.
+Turn left and walk to the end. Then turn right to leave the cubicle.
+Go straight forward until there are steps in front of you, then go up the two steps.
+Turn left and then walk straight until the rubbish bin is in front of you.
+Stand up first, then turn left and walk to the edge of the table. Turn right and walk straight to the blue sofa.
+Walk forward to the end of the corridor, then turn right and walk to the end. Finally, turn right and go down the stairs.
+Stand up, turn right and walk to the corner of the table. Turn left and go straight along the edge of the table. Finally, turn left and keep walking forward until the sofa is in front of you.
+Turn left, cross the planks, and go straight forward.
+Stand up then turn right and take two or three steps to get past the chair. Turn left and walk straight forward until the small table is on your left. Turn left and keep walking straight ahead, the small table will be right in front of you.
+Go downstairs and then turn right. Walk a few steps and the pink swim ring is in front of you.
+Walk straight until the room is on your right. Turn right and then walk straight to enter the room
+Turn left and go straight, opening the door to exit the kitchen.
+Stand up, then turn left and take a step or two. Turn right, go straight, and exit the room through the door.
+Go forward and down the stairs. Then turn left and go straight until the red bucket is on your right. Finally turn right and keep walking forward until the red bucket is in front of you.
+Simply walk forward.
+Turn left and walk straight to the step. Go up the step and walk out the door.
+Turn right and go straight until there are steps going down on the left. Turn left and walk down the steps to the meadow.
+Stand up, then turn right and go to the end. Turn left, walk forward, and exit this room through the door.
+Walk straight, and then walk into the door to enter the room
+Turn right and go straight until the door is on your right. Turn right and go straight to get out of this room.
+Walk straight until the end. Turn right and walk a few steps until there is a path on your left. Turn left and get out of the kithecn through the path.
+Turn left and walk a few steps until there is a hallway on your right. Turn right and then walk straight to cross the door and the red car is in front of you.
+Walk straight to get out of this room through the door and navigate around the chairs and tables to avoid bumping into them.
+Yes.
+Go straight.
+Stand up, turn left and walk straight until the door is on your right. Turn right, navigate around the chairs and tables to avoid bumping into them and walk straight to the door.
+Turn right.
+Walk down the stairs and then go straight until the grey sofa is on your right. Turn right and then walk a few steps.
+Turn right and then walk straight until the dinning table is in front of you.
+Walk straight until the chair is on your left. Turn left and then walk a few steps until the chair is in front of you.
+Turn left.
+Walk straight until there is a path on your right. Turn right and walk straight until the white sofa is on your left. Turn left and then walk one or two steps.
+Walk straight until the yellow car is on your left. Turn left and then walk a few steps until the yellow car is in front of you.
+Walk straight to the end and then turn left. Walk straight until the bags are on your right. Turn right and then walk straight until the bags are in front of you.
+tightening the screws
+cultivating plants
+watching the phone
+washing cups
+playing golf
+pruning branches
+yes
+yes
+Cutting vegetables
+folding clothes
+Shoveling stones
+yes
+peeling the avocado
+selecting products
+putting ice into a bottle
+repairing shoes
+no
+riding bicycle
+watering
+playing poker
+no
+painting the wall
+repairing a bicycle
+yes
+watering the plants
+no
+pouring yogurt into the bowl
+measuring the length
+playing computer games
+yes
+knitting a sweater
+yes
+recording a video
+picking grapes
+walking on the street
+yes
+yes
+moving a plank
+painting
+driving a car
+wiping a spoon
+filling a pot with water
+cutting a stick
+yes
+sweeping the floor
+no
+reading a book
+yes
+drawing a semicircle
+pruning the branches
+yes
+making a fire
+washing a pot
+pouring tea to the cup
+washing my hands
+putting the plug in the socket
+pouring water into the pool
+climbing the mountain
+watching videos
+washing a cup
+yes
+yes
+stirring the eggs
+taking photos
+cooking
+cleaning the bathroom
+using the map to navigate
+yes
+cooking
+weaving.
+climbing the stairs.
+playing chess.
+installing flooring.
+repairing the machine.
+repairing the machine.
+building a wall.
+Playing the piano.
+walking the dog.
+cutting carton.
+frying eggs.
+Tearing tape.
+Ironing clothes.
+Drawing.
+Kneading the dough.
+Hoeing.
+Using microwave.
+Cutting hair.
+Painting nails.
+Peeling walnuts.
+Cleaning handrail.
+Washing the car.
+Decorating a Christmas tree.
+Sharpening the knife.
+Choosing clothes.
+putting up a poster.
+Reading a magazine.
+Installing a bench.
+wearing gloves.
+Weeding the garden.
+washing the mop.
+it is made of transparent material
+yes
+no
+sharp
+Longer than my fingers
+yes
+white
+blue
+orange
+yes
+it is solid
+yellow
+blue
+wooden
+it is rusty
+it is porous
+rectangular
+black
+no
+it is not made of plastic
+liquid
+it is made of ceramic
+no
+it is a vegetable
+metal
+plastic
+it is cylindrical.
+yes
+the thing I'm cutting has striples
+pink
+yes
+serrated
+green
+smooth
+no
+liquid
+blue
+green
+it is made of sponge
+wooden
+white
+it is reflective
+black and white
+plastic
+dark red
+it is made of cloth
+shorter than my left foot
+blue
+it is not flat
+it is made of paper
+On my right.
+No.
+No.
+Donuts.
+In front of me.
+A helmet.
+No.
+Yes
+Both.
+On my right.
+On my left.
+No.
+On my left.
+Headphones.
+Left.
+Left.
+A brush.
+On my left.
+Left.
+On my right.
+Microwave oven.
+Card reader.
+Both.
+Left.
+Yes.
+In front of me.
+Yes.
+Left.
+On the table in front of me.
+Both.
+A golf ball.
+A wire fence.
+A red car.
+the left side.
+a little spade.
+A mirror.
+Grey.
+Left.
+Yoga mat.
+Left.
+green.
+right.
+left.
+Pipelines.
+right.
+A stick.
+right.
+three.
+boxes.
+On my left.
+One.
+Three.
+One.
+The second level.
+One.
+Two.
+First shelf.
+Two.
+One.
+One.
+It is four.
+Two.
+One.
+Two.
+Three.
+One.
+On my left.
+Two.
+More bowls on my right.
+One.
+One.
+One.
+One.
+One.
+Two.
+One.
+One.
+One.
+One.
+No.
+One.
+Two.
+No.
+Two.
+Yes.
+One.
+There are more planks on the left side of my left hand.
+One.
+No.
+Two.
+On the left of my right hand.
+One.
+Three.
+One.
+Two.
+Two.
+Three.
+Two.
+One.
+One.
+Play baseball.
+Cut the grass.
+Left.
+Downstairs.
+Open the cabinet.
+Take out the mushrooms.
+Cook.
+Open the lid of the bucket.
+Upstairs.
+Clothes.
+Roll the dough.
+Take out the cabbage.
+Open the fridge.
+Mop the floor.
+Iron the shirt
+Cut plants.
+Open the car door.
+Haircut.
+Paint the board.
+Fasten it.
+Measure the board.
+Wipe the cat.
+Paint the wall.
+Add water.
+Serve rice.
+Clean the desk.
+The white raddish.
+Inflate the tire.
+Yes.
+Into two pieces.
+Blue.
+On
+Yes.
+Milk foam.
+Cut lemon from the branch.
+Into the plank.
+In the pot.
+Yes.
+No.
+Water.
+Pour water.
+Peel the onion.
+Pour the noodle to the plate.
+Wash clothes.
+Soup.
+Yes.
+In the basket.
+Yes.
+Open it.
+Plant the tree.
+In the fridge.
+Coffee machine.
+Yes.
+Clean the floor.
+Yes.
+In the washing machine.
+Stir milk.
+On the desk.
+Pour the cement into the mixer.
+Yes.
+White.
+Two.
+No.
+Golden.
+Prune the leaves.
+Open the drawer.
+Remove the handle of the eggplant.
+Yes.
+Ice.
+Hot.
+Pour the ice to the cup.
+Softer.
+Yes.
+Empty the pot.
+larger.
+Put on my shoes.
+Plate.
+No.
+Cut the paper.
+Increase.
+Yes.
+Clean it.
+Wash the brush.
+Drier.
+Yes.
+The car.
+No.
+Paint on the paper.
+Cut it.
+Pick flowers.
+Yes.
+Lift the brown tool.
+IPad.
+Connect the wire to the lamp.
+Mow grass.
+Wash the car.
+Open the tap.
+Yes.
+To the bucket.
+Yes.
+The sink.
+The pot containing water.
+The porcelain plate.
+The cabinet far away from my right hand.
+The table in front of me.
+yes.
+No.
+The pot in my hand.
+The same as the number of phones in my hand.
+No
+The blue thing.
+The pot I'm holding.
+Yes.
+The pot.
+Color.
+One.
+Yes.
+Equal in number.
+The book.
+The black pillow.
+Banana.
+Green.
+The left one.
+On the table.
+The left one.
+The yellow one.
+The coffee.
+The white one.
+The thread in my hand.
+No.
+Same.
+Green.
+Different.
+There are more bowls on my right.
+On my left.
+To my left.
+No.
+Yes.
+Same type of items.
+Yes.
+On my right.
+There are less mats holding in my hands.
+There are less rocks on my left.
+No.
+The plank in my hands.
+The pen.
+The larger bowl.
+No.
+In my hands.
+On my left.
+In the kitchen.
+Living room.
+Cooking food.
+On the lawn.
+In the washroom.
+In the library.
+Car.
+In a lab.
+In a grocery.
+In the pharmacy.
+yes.
+Outdoor.
+No.
+No.
+Timber.
+Bed.
+In the backyard.
+Clothing store.
+In the parking lot.
+Cosmetic store.
+Forest.
+At the cashier.
+Yes.
+Car repair shop.
+By the window.
+In the dormitory.
+On the road.
+In the staircase.
+The dining room.
+No.
+Yes.
+yes.
+No.
+At home.
+On the balcony.
+Indoors.
+Camping.
+The study.
+In the barber shop.
+indoors.
+In a gym.
+In a car.
+On a golf course.
+On the country lane.
+Bakery.
+vineyard.
+outside.
+at school.
+In the fields.
+In the kitchen.
+standing on the ladder.
+Playing.
+To keep my hands from burning.
+In the living room.
+Chemistry.
+Break it.
+To feel the temperature of the pan.
+No.
+A Christmas tree.
+A shopping list.
+Yes.
+Going downstairs.
+To learn how to cook.
+No.
+Peeling the carrots.
+To the bowl.
+Brick mold.
+Right-handed.
+A cementer.
+Warehouse.
+having a party.
+In a shop.
+Yes.
+Yes.
+Yes.
+An elderly person.
+A coach.
+Viewing photos.
+Kitchen.
+No.
+No.
+A painting.
+It's myself.
+Checking the calendar.
+No.
+No.
+On the iPad.
+Yes.
+Study.
+Women.
+Right.
+Alive.
+Hot.
+the ceiling.
+my phone.
+ketchup.
+No.
+cooked.
+sitting.
+yes.
+a sneaker
+secateur
+screwdriver
+a wooden board
+yes
+A vacuum cleaner
+A hairclipper
+scissors
+Eggs
+a knife
+a hoe
+a steering wheel
+radish
+a bicycle tyre
+pasta
+bowls
+cactus
+a electirc drill
+a refrigerator
+yes
+yes
+yes
+chopsticks
+phone
+A bicycle
+yes
+yes
+yes
+yes
+a pot
+a guitar
+scissors
+a shovel
+a knife
+yes
+yes
+yes
+yes
+a spatula
+yes
+a pen
+a pot
+a cart
+a needle
+an iron
+branches
+yarn balls
+a mouse
+a fork
+skin-peeler
+yes
+painting
+yes
+painting the wall
+to protect my hands
+yes
+paint tray
+provide the time
+yes
+riding
+mowing
+serving food
+inflate a tire
+yes
+yes
+Controlling the water flow
+yes
+drink
+yes
+Eating food
+yes
+yes
+cutting
+weaving
+carrying belongings
+block light
+yes
+yes
+no
+no
+watering
+Mopping
+no
+bind objects
+cleaning
+yes
+yes
+holding water
+drawing vertical lines
+screwing
+filtering out the water
+braking
+smoothing the plank
+painting
+insulating heat
+peeling
+cleaning
+both
+I can use it to control direction
+cutting food
+Take the wrench on the thigh, and put it on the screw on the inside of the round object, then turn the wrench to loosen the screw.
+Count the number of plants in your hand, then select empty pots based on the number, and plant the plants in your hand into the pots.
+Walk to it and press down on the lid.
+Compare all the scissors, find the largest scissor which is near your right feet, and pick up this scissor.
+Pick up the cat, then turn around and walk out of the bathroom, putting the cat on the floor.
+Pick up the white bottle of milk which is on the desk, and pour the milk into the bowl in your left hand.
+Turn the thing in front of you (the steering wheel) to the right.
+Pick up the remote control and put it on the table, then pick up the magazine, open it and start reading.
+Pick up the meat and use the yellow tool (scissor) in your hand to cut the plastic wrap.
+Pick up the paper in your left hand and tear one piece of paper. Use this piece of paper to wipe the cup.
+Open the lid of the bottle, pick up the kettle, pour the water from the kettle into the bottle, and tighten the lid of the bottle.
+Go to the tripod and pick up the balloon on the ground. Then walk to the sofa and put the balloon in your hand on the sofa.
+Pick up the black cell phone on the glass table, walk over to the table with the TV, and put the black cell phone on this table.
+Tap it firmly against the edge of the bowl to crack the shell and then use your fingers to gently pull the two halves apart over the bowl.
+Large white transparent cup.
+Microwave on the right.
+The fridge.
+Find the position of the soy sauce, and pick one bottle of soy sauce.
+Put it into the sink, and turn on the faucet to rinse it.
+Raise your left wrist to wake the watch face or tap the screen, and then glance at the display to see the time.
+No
+Press the second floor button of the elevator, and when the elevator reaches the second floor and the door opens, step out of the elevator.
+Find the white plate with the chopped things on your right, pick up the white plate, and pour the contents of the plate into the pan.
+The glass. Find the location of the glass on the table, and pick it up.
+Turn on the faucet, apply dish soap to the items in your hands, and then rinse them under the faucet until there is no more foam.
+Open the lid of the container, locate the plate and pour the contents into the plate.
+Yes.
+Hold the thing in your left hand and use your hand to slide the knife under the skin and strip it away from the flesh.
+Place the paper on the cutting mat, put the knife on where you want to divide, and then press down and slide the blade across the paper.
+Put the branches between the scissor blades, squeeze the handles, and cut the branches.
+Open the tap, rinse it under running water, apply detergent on it, scrub it, and finally rinse again until the water runs clear.
+Use the tool in your hands to turn over the top layer of soil.
+Align its edge with the board, locate the 0 cm mark at the start, and mark the board at the 3 cm mark on it.
+Use your hand to apply pressure, and rub back and forth along the the wood.
+Hold the coconut firmly and apply pressure between the coconut and husk, then peel the husk.
+Spread it over the wall and smooth it using the tool holding in your right hand.
+Divide the cards into two piles and then mix them up, repeating several times.
+Walk straight until the car is next to you, put it on the floor of the car and lay it flat.
+Type your message using the keyboard, and then press the send button.
+Locate the card numbered 4, hold it between your fingers, and then place it to the pile on the desk.
+Take away the bottle on the scale, make sure the scale is turned on and set to zero, then place the thing in your hands on the scale's platform and read the weight.
+Open the bag with my left hand and insert the thing holding in your right hand, ensuring the bag is upright
+Flick the whip to the side to create a sound or gentle tap, making it to move forward without hitting it.
+Open the tap, rinse it under running water, apply detergent, scrub it with a sponge, and then rinse off the detergent.
+Put the paintbrush into the brown bottle which contains water, swirl the paintbrush in it for a few times, and then wipe it against the bottle's edge.
+Unscrew the cap of the bottle holding in your right hand, open the tap, hold it under a running tap until the bottle is full of water, turn off the tap and screw the cap on.
+Sweep it along the handrail's surface, ensuring you clean crevices and grooves to remove all the dust.
+Shape the thing in your hands into a mold on your right front, press it firmly, and then dry it in the sun until it hardens.
+Locate the handle, pull it using your right hand, and then push the door outward.
+Grip the handle of the thing holding in your right hand, swing the blade close to the ground to cut the grass.
+Go forward to the end, after that turn left and continue to the end, then turn right to face the ATM.
+The store can be accessed through the door on the right hand side.
+First go through the nearest door, and then go straight ahead, open the door, go through the door to leave the house.
+Walk forward to the end, turn right, and walk a few steps until the glass door is on the left. Turn left, open the glass door, and walk out of the room.
+Stand up, turn right, walk forward until you get to the curtains.
+Yes
+Turn right and walk straight until there is a walk on your left. Turn left and walk straight until the door is on your right. Turn right and walk through the door to get out of this room..
+No.
+Take one or two steps forward, then turn left and continue walking.
+Turn right and walk a few steps.
+Walk straight for a few steps.
+Turn left and then walk a few steps.
+Turn right.
+Turn right and then walk a few steps to reach the door.
+Turn left and walk to the side of the road. Turn right then walk a few steps.
+Stand up and walk forward until you're in front of a pile of mats. Turn left, take a step or two, then turn right.
+Turn right and then walk a few steps until the chair is on your left.
+Turn left and walk to the end. Then turn right to leave the cubicle.
+Go straight forward until there are steps in front of you, then go up the two steps.
+Turn left and then walk straight until the rubbish bin is in front of you.
+Stand up first, then turn left and walk to the edge of the table. Turn right and walk straight to the blue sofa.
+Walk forward to the end of the corridor, then turn right and walk to the end. Finally, turn right and go down the stairs.
+Stand up, turn right and walk to the corner of the table. Turn left and go straight along the edge of the table. Finally, turn left and keep walking forward until the sofa is in front of you.
+Turn left, cross the planks, and go straight forward.
+Stand up then turn right and take two or three steps to get past the chair. Turn left and walk straight forward until the small table is on your left. Turn left and keep walking straight ahead, the small table will be right in front of you.
+Go downstairs and then turn right. Walk a few steps and the pink swim ring is in front of you.
+Walk straight until the room is on your right. Turn right and then walk straight to enter the room
+Turn left and go straight, opening the door to exit the kitchen.
+Stand up, then turn left and take a step or two. Turn right, go straight, and exit the room through the door.
+Go forward and down the stairs. Then turn left and go straight until the red bucket is on your right. Finally turn right and keep walking forward until the red bucket is in front of you.
+Simply walk forward.
+Turn left and walk straight to the step. Go up the step and walk out the door.
+Turn right and go straight until there are steps going down on the left. Turn left and walk down the steps to the meadow.
+Stand up, then turn right and go to the end. Turn left, walk forward, and exit this room through the door.
+Walk straight, and then walk into the door to enter the room
+Turn right and go straight until the door is on your right. Turn right and go straight to get out of this room.
+Walk straight until the end. Turn right and walk a few steps until there is a path on your left. Turn left and get out of the kithecn through the path.
+Turn left and walk a few steps until there is a hallway on your right. Turn right and then walk straight to cross the door and the red car is in front of you.
+Walk straight to get out of this room through the door and navigate around the chairs and tables to avoid bumping into them.
+Yes.
+Go straight.
+Stand up, turn left and walk straight until the door is on your right. Turn right, navigate around the chairs and tables to avoid bumping into them and walk straight to the door.
+Turn right.
+Walk down the stairs and then go straight until the grey sofa is on your right. Turn right and then walk a few steps.
+Turn right and then walk straight until the dinning table is in front of you.
+Walk straight until the chair is on your left. Turn left and then walk a few steps until the chair is in front of you.
+Turn left.
+Walk straight until there is a path on your right. Turn right and walk straight until the white sofa is on your left. Turn left and then walk one or two steps.
+Walk straight until the yellow car is on your left. Turn left and then walk a few steps until the yellow car is in front of you.
+Walk straight to the end and then turn left. Walk straight until the bags are on your right. Turn right and then walk straight until the bags are in front of you.
+tightening the screws
+cultivating plants
+watching the phone
+washing cups
+playing golf
+pruning branches
+yes
+yes
+Cutting vegetables
+folding clothes
+Shoveling stones
+yes
+peeling the avocado
+selecting products
+putting ice into a bottle
+repairing shoes
+no
+riding bicycle
+watering
+playing poker
+no
+painting the wall
+repairing a bicycle
+yes
+watering the plants
+no
+pouring yogurt into the bowl
+measuring the length
+playing computer games
+yes
+knitting a sweater
+yes
+recording a video
+picking grapes
+walking on the street
+yes
+yes
+moving a plank
+painting
+driving a car
+wiping a spoon
+filling a pot with water
+cutting a stick
+yes
+sweeping the floor
+no
+reading a book
+yes
+drawing a semicircle
+pruning the branches
+yes
+making a fire
+washing a pot
+pouring tea to the cup
+washing my hands
+putting the plug in the socket
+pouring water into the pool
+climbing the mountain
+watching videos
+washing a cup
+yes
+yes
+stirring the eggs
+taking photos
+cooking
+cleaning the bathroom
+using the map to navigate
+yes
+cooking
+weaving.
+climbing the stairs.
+playing chess.
+installing flooring.
+repairing the machine.
+repairing the machine.
+building a wall.
+Playing the piano.
+walking the dog.
+cutting carton.
+frying eggs.
+Tearing tape.
+Ironing clothes.
+Drawing.
+Kneading the dough.
+Hoeing.
+Using microwave.
+Cutting hair.
+Painting nails.
+Peeling walnuts.
+Cleaning handrail.
+Washing the car.
+Decorating a Christmas tree.
+Sharpening the knife.
+Choosing clothes.
+putting up a poster.
+Reading a magazine.
+Installing a bench.
+wearing gloves.
+Weeding the garden.
+washing the mop.
+it is made of transparent material
+yes
+no
+sharp
+Longer than my fingers
+yes
+white
+blue
+orange
+yes
+it is solid
+yellow
+blue
+wooden
+it is rusty
+it is porous
+rectangular
+black
+no
+it is not made of plastic
+liquid
+it is made of ceramic
+no
+it is a vegetable
+metal
+plastic
+it is cylindrical.
+yes
+the thing I'm cutting has striples
+pink
+yes
+serrated
+green
+smooth
+no
+liquid
+blue
+green
+it is made of sponge
+wooden
+white
+it is reflective
+black and white
+plastic
+dark red
+it is made of cloth
+shorter than my left foot
+blue
+it is not flat
+it is made of paper
+On my right.
+No.
+No.
+Donuts.
+In front of me.
+A helmet.
+No.
+Yes
+Both.
+On my right.
+On my left.
+No.
+On my left.
+Headphones.
+Left.
+Left.
+A brush.
+On my left.
+Left.
+On my right.
+Microwave oven.
+Card reader.
+Both.
+Left.
+Yes.
+In front of me.
+Yes.
+Left.
+On the table in front of me.
+Both.
+A golf ball.
+A wire fence.
+A red car.
+the left side.
+a little spade.
+A mirror.
+Grey.
+Left.
+Yoga mat.
+Left.
+green.
+right.
+left.
+Pipelines.
+right.
+A stick.
+right.
+three.
+boxes.
+On my left.
+One.
+Three.
+One.
+The second level.
+One.
+Two.
+First shelf.
+Two.
+One.
+One.
+It is four.
+Two.
+One.
+Two.
+Three.
+One.
+On my left.
+Two.
+More bowls on my right.
+One.
+One.
+One.
+One.
+One.
+Two.
+One.
+One.
+One.
+One.
+No.
+One.
+Two.
+No.
+Two.
+Yes.
+One.
+There are more planks on the left side of my left hand.
+One.
+No.
+Two.
+On the left of my right hand.
+One.
+Three.
+One.
+Two.
+Two.
+Three.
+Two.
+One.
+One.
+Play baseball.
+Cut the grass.
+Left.
+Downstairs.
+Open the cabinet.
+Take out the mushrooms.
+Cook.
+Open the lid of the bucket.
+Upstairs.
+Clothes.
+Roll the dough.
+Take out the cabbage.
+Open the fridge.
+Mop the floor.
+Iron the shirt
+Cut plants.
+Open the car door.
+Haircut.
+Paint the board.
+Fasten it.
+Measure the board.
+Wipe the cat.
+Paint the wall.
+Add water.
+Serve rice.
+Clean the desk.
+The white raddish.
+Inflate the tire.
+Yes.
+Into two pieces.
+Blue.
+On
+Yes.
+Milk foam.
+Cut lemon from the branch.
+Into the plank.
+In the pot.
+Yes.
+No.
+Water.
+Pour water.
+Peel the onion.
+Pour the noodle to the plate.
+Wash clothes.
+Soup.
+Yes.
+In the basket.
+Yes.
+Open it.
+Plant the tree.
+In the fridge.
+Coffee machine.
+Yes.
+Clean the floor.
+Yes.
+In the washing machine.
+Stir milk.
+On the desk.
+Pour the cement into the mixer.
+Yes.
+White.
+Two.
+No.
+Golden.
+Prune the leaves.
+Open the drawer.
+Remove the handle of the eggplant.
+Yes.
+Ice.
+Hot.
+Pour the ice to the cup.
+Softer.
+Yes.
+Empty the pot.
+larger.
+Put on my shoes.
+Plate.
+No.
+Cut the paper.
+Increase.
+Yes.
+Clean it.
+Wash the brush.
+Drier.
+Yes.
+The car.
+No.
+Paint on the paper.
+Cut it.
+Pick flowers.
+Yes.
+Lift the brown tool.
+IPad.
+Connect the wire to the lamp.
+Mow grass.
+Wash the car.
+Open the tap.
+Yes.
+To the bucket.
+Yes.
+The sink.
+The pot containing water.
+The porcelain plate.
+The cabinet far away from my right hand.
+The table in front of me.
+yes.
+No.
+The pot in my hand.
+The same as the number of phones in my hand.
+No
+The blue thing.
+The pot I'm holding.
+Yes.
+The pot.
+Color.
+One.
+Yes.
+Equal in number.
+The book.
+The black pillow.
+Banana.
+Green.
+The left one.
+On the table.
+The left one.
+The yellow one.
+The coffee.
+The white one.
+The thread in my hand.
+No.
+Same.
+Green.
+Different.
+There are more bowls on my right.
+On my left.
+To my left.
+No.
+Yes.
+Same type of items.
+Yes.
+On my right.
+There are less mats holding in my hands.
+There are less rocks on my left.
+No.
+The plank in my hands.
+The pen.
+The larger bowl.
+No.
+In my hands.
+On my left.
+In the kitchen.
+Living room.
+Cooking food.
+On the lawn.
+In the washroom.
+In the library.
+Car.
+In a lab.
+In a grocery.
+In the pharmacy.
+yes.
+Outdoor.
+No.
+No.
+Timber.
+Bed.
+In the backyard.
+Clothing store.
+In the parking lot.
+Cosmetic store.
+Forest.
+At the cashier.
+Yes.
+Car repair shop.
+By the window.
+In the dormitory.
+On the road.
+In the staircase.
+The dining room.
+No.
+Yes.
+yes.
+No.
+At home.
+On the balcony.
+Indoors.
+Camping.
+The study.
+In the barber shop.
+indoors.
+In a gym.
+In a car.
+On a golf course.
+On the country lane.
+Bakery.
+vineyard.
+outside.
+at school.
+In the fields.
+In the kitchen.
+standing on the ladder.
+Playing.
+To keep my hands from burning.
+In the living room.
+Chemistry.
+Break it.
+To feel the temperature of the pan.
+No.
+A Christmas tree.
+A shopping list.
+Yes.
+Going downstairs.
+To learn how to cook.
+No.
+Peeling the carrots.
+To the bowl.
+Brick mold.
+Right-handed.
+A cementer.
+Warehouse.
+having a party.
+In a shop.
+Yes.
+Yes.
+Yes.
+An elderly person.
+A coach.
+Viewing photos.
+Kitchen.
+No.
+No.
+A painting.
+It's myself.
+Checking the calendar.
+No.
+No.
+On the iPad.
+Yes.
+Study.
+Women.
+Right.
+Alive.
+Hot.
+the ceiling.
+my phone.
+ketchup.
+No.
+cooked.
+sitting.
+yes.
+a sneaker
+secateur
+screwdriver
+a wooden board
+yes
+A vacuum cleaner
+A hairclipper
+scissors
+Eggs
+a knife
+a hoe
+a steering wheel
+radish
+a bicycle tyre
+pasta
+bowls
+cactus
+a electirc drill
+a refrigerator
+yes
+yes
+yes
+chopsticks
+phone
+A bicycle
+yes
+yes
+yes
+yes
+a pot
+a guitar
+scissors
+a shovel
+a knife
+yes
+yes
+yes
+yes
+a spatula
+yes
+a pen
+a pot
+a cart
+a needle
+an iron
+branches
+yarn balls
+a mouse
+a fork
+skin-peeler
+yes
+painting
+yes
+painting the wall
+to protect my hands
+yes
+paint tray
+provide the time
+yes
+riding
+mowing
+serving food
+inflate a tire
+yes
+yes
+Controlling the water flow
+yes
+drink
+yes
+Eating food
+yes
+yes
+cutting
+weaving
+carrying belongings
+block light
+yes
+yes
+no
+no
+watering
+Mopping
+no
+bind objects
+cleaning
+yes
+yes
+holding water
+drawing vertical lines
+screwing
+filtering out the water
+braking
+smoothing the plank
+painting
+insulating heat
+peeling
+cleaning
+both
+I can use it to control direction
+cutting food
+Take the wrench on the thigh, and put it on the screw on the inside of the round object, then turn the wrench to loosen the screw.
+Count the number of plants in your hand, then select empty pots based on the number, and plant the plants in your hand into the pots.
+Walk to it and press down on the lid.
+Compare all the scissors, find the largest scissor which is near your right feet, and pick up this scissor.
+Pick up the cat, then turn around and walk out of the bathroom, putting the cat on the floor.
+Pick up the white bottle of milk which is on the desk, and pour the milk into the bowl in your left hand.
+Turn the thing in front of you (the steering wheel) to the right.
+Pick up the remote control and put it on the table, then pick up the magazine, open it and start reading.
+Pick up the meat and use the yellow tool (scissor) in your hand to cut the plastic wrap.
+Pick up the paper in your left hand and tear one piece of paper. Use this piece of paper to wipe the cup.
+Open the lid of the bottle, pick up the kettle, pour the water from the kettle into the bottle, and tighten the lid of the bottle.
+Go to the tripod and pick up the balloon on the ground. Then walk to the sofa and put the balloon in your hand on the sofa.
+Pick up the black cell phone on the glass table, walk over to the table with the TV, and put the black cell phone on this table.
+Tap it firmly against the edge of the bowl to crack the shell and then use your fingers to gently pull the two halves apart over the bowl.
+Large white transparent cup.
+Microwave on the right.
+The fridge.
+Find the position of the soy sauce, and pick one bottle of soy sauce.
+Put it into the sink, and turn on the faucet to rinse it.
+Raise your left wrist to wake the watch face or tap the screen, and then glance at the display to see the time.
+No
+Press the second floor button of the elevator, and when the elevator reaches the second floor and the door opens, step out of the elevator.
+Find the white plate with the chopped things on your right, pick up the white plate, and pour the contents of the plate into the pan.
+The glass. Find the location of the glass on the table, and pick it up.
+Turn on the faucet, apply dish soap to the items in your hands, and then rinse them under the faucet until there is no more foam.
+Open the lid of the container, locate the plate and pour the contents into the plate.
+Yes.
+Hold the thing in your left hand and use your hand to slide the knife under the skin and strip it away from the flesh.
+Place the paper on the cutting mat, put the knife on where you want to divide, and then press down and slide the blade across the paper.
+Put the branches between the scissor blades, squeeze the handles, and cut the branches.
+Open the tap, rinse it under running water, apply detergent on it, scrub it, and finally rinse again until the water runs clear.
+Use the tool in your hands to turn over the top layer of soil.
+Align its edge with the board, locate the 0 cm mark at the start, and mark the board at the 3 cm mark on it.
+Use your hand to apply pressure, and rub back and forth along the the wood.
+Hold the coconut firmly and apply pressure between the coconut and husk, then peel the husk.
+Spread it over the wall and smooth it using the tool holding in your right hand.
+Divide the cards into two piles and then mix them up, repeating several times.
+Walk straight until the car is next to you, put it on the floor of the car and lay it flat.
+Type your message using the keyboard, and then press the send button.
+Locate the card numbered 4, hold it between your fingers, and then place it to the pile on the desk.
+Take away the bottle on the scale, make sure the scale is turned on and set to zero, then place the thing in your hands on the scale's platform and read the weight.
+Open the bag with my left hand and insert the thing holding in your right hand, ensuring the bag is upright
+Flick the whip to the side to create a sound or gentle tap, making it to move forward without hitting it.
+Open the tap, rinse it under running water, apply detergent, scrub it with a sponge, and then rinse off the detergent.
+Put the paintbrush into the brown bottle which contains water, swirl the paintbrush in it for a few times, and then wipe it against the bottle's edge.
+Unscrew the cap of the bottle holding in your right hand, open the tap, hold it under a running tap until the bottle is full of water, turn off the tap and screw the cap on.
+Sweep it along the handrail's surface, ensuring you clean crevices and grooves to remove all the dust.
+Shape the thing in your hands into a mold on your right front, press it firmly, and then dry it in the sun until it hardens.
+Locate the handle, pull it using your right hand, and then push the door outward.
+Grip the handle of the thing holding in your right hand, swing the blade close to the ground to cut the grass.
+Go forward to the end, after that turn left and continue to the end, then turn right to face the ATM.
+The store can be accessed through the door on the right hand side.
+First go through the nearest door, and then go straight ahead, open the door, go through the door to leave the house.
+Walk forward to the end, turn right, and walk a few steps until the glass door is on the left. Turn left, open the glass door, and walk out of the room.
+Stand up, turn right, walk forward until you get to the curtains.
+Yes
+Turn right and walk straight until there is a walk on your left. Turn left and walk straight until the door is on your right. Turn right and walk through the door to get out of this room..
+No.
+Take one or two steps forward, then turn left and continue walking.
+Turn right and walk a few steps.
+Walk straight for a few steps.
+Turn left and then walk a few steps.
+Turn right.
+Turn right and then walk a few steps to reach the door.
+Turn left and walk to the side of the road. Turn right then walk a few steps.
+Stand up and walk forward until you're in front of a pile of mats. Turn left, take a step or two, then turn right.
+Turn right and then walk a few steps until the chair is on your left.
+Turn left and walk to the end. Then turn right to leave the cubicle.
+Go straight forward until there are steps in front of you, then go up the two steps.
+Turn left and then walk straight until the rubbish bin is in front of you.
+Stand up first, then turn left and walk to the edge of the table. Turn right and walk straight to the blue sofa.
+Walk forward to the end of the corridor, then turn right and walk to the end. Finally, turn right and go down the stairs.
+Stand up, turn right and walk to the corner of the table. Turn left and go straight along the edge of the table. Finally, turn left and keep walking forward until the sofa is in front of you.
+Turn left, cross the planks, and go straight forward.
+Stand up then turn right and take two or three steps to get past the chair. Turn left and walk straight forward until the small table is on your left. Turn left and keep walking straight ahead, the small table will be right in front of you.
+Go downstairs and then turn right. Walk a few steps and the pink swim ring is in front of you.
+Walk straight until the room is on your right. Turn right and then walk straight to enter the room
+Turn left and go straight, opening the door to exit the kitchen.
+Stand up, then turn left and take a step or two. Turn right, go straight, and exit the room through the door.
+Go forward and down the stairs. Then turn left and go straight until the red bucket is on your right. Finally turn right and keep walking forward until the red bucket is in front of you.
+Simply walk forward.
+Turn left and walk straight to the step. Go up the step and walk out the door.
+Turn right and go straight until there are steps going down on the left. Turn left and walk down the steps to the meadow.
+Stand up, then turn right and go to the end. Turn left, walk forward, and exit this room through the door.
+Walk straight, and then walk into the door to enter the room
+Turn right and go straight until the door is on your right. Turn right and go straight to get out of this room.
+Walk straight until the end. Turn right and walk a few steps until there is a path on your left. Turn left and get out of the kithecn through the path.
+Turn left and walk a few steps until there is a hallway on your right. Turn right and then walk straight to cross the door and the red car is in front of you.
+Walk straight to get out of this room through the door and navigate around the chairs and tables to avoid bumping into them.
+Yes.
+Go straight.
+Stand up, turn left and walk straight until the door is on your right. Turn right, navigate around the chairs and tables to avoid bumping into them and walk straight to the door.
+Turn right.
+Walk down the stairs and then go straight until the grey sofa is on your right. Turn right and then walk a few steps.
+Turn right and then walk straight until the dinning table is in front of you.
+Walk straight until the chair is on your left. Turn left and then walk a few steps until the chair is in front of you.
+Turn left.
+Walk straight until there is a path on your right. Turn right and walk straight until the white sofa is on your left. Turn left and then walk one or two steps.
+Walk straight until the yellow car is on your left. Turn left and then walk a few steps until the yellow car is in front of you.
+Walk straight to the end and then turn left. Walk straight until the bags are on your right. Turn right and then walk straight until the bags are in front of you.
+tightening the screws
+cultivating plants
+watching the phone
+washing cups
+playing golf
+pruning branches
+yes
+yes
+Cutting vegetables
+folding clothes
+Shoveling stones
+yes
+peeling the avocado
+selecting products
+putting ice into a bottle
+repairing shoes
+no
+riding bicycle
+watering
+playing poker
+no
+painting the wall
+repairing a bicycle
+yes
+watering the plants
+no
+pouring yogurt into the bowl
+measuring the length
+playing computer games
+yes
+knitting a sweater
+yes
+recording a video
+picking grapes
+walking on the street
+yes
+yes
+moving a plank
+painting
+driving a car
+wiping a spoon
+filling a pot with water
+cutting a stick
+yes
+sweeping the floor
+no
+reading a book
+yes
+drawing a semicircle
+pruning the branches
+yes
+making a fire
+washing a pot
+pouring tea to the cup
+washing my hands
+putting the plug in the socket
+pouring water into the pool
+climbing the mountain
+watching videos
+washing a cup
+yes
+yes
+stirring the eggs
+taking photos
+cooking
+cleaning the bathroom
+using the map to navigate
+yes
+cooking
+weaving.
+climbing the stairs.
+playing chess.
+installing flooring.
+repairing the machine.
+repairing the machine.
+building a wall.
+Playing the piano.
+walking the dog.
+cutting carton.
+frying eggs.
+Tearing tape.
+Ironing clothes.
+Drawing.
+Kneading the dough.
+Hoeing.
+Using microwave.
+Cutting hair.
+Painting nails.
+Peeling walnuts.
+Cleaning handrail.
+Washing the car.
+Decorating a Christmas tree.
+Sharpening the knife.
+Choosing clothes.
+putting up a poster.
+Reading a magazine.
+Installing a bench.
+wearing gloves.
+Weeding the garden.
+washing the mop.
+it is made of transparent material
+yes
+no
+sharp
+Longer than my fingers
+yes
+white
+blue
+orange
+yes
+it is solid
+yellow
+blue
+wooden
+it is rusty
+it is porous
+rectangular
+black
+no
+it is not made of plastic
+liquid
+it is made of ceramic
+no
+it is a vegetable
+metal
+plastic
+it is cylindrical.
+yes
+the thing I'm cutting has striples
+pink
+yes
+serrated
+green
+smooth
+no
+liquid
+blue
+green
+it is made of sponge
+wooden
+white
+it is reflective
+black and white
+plastic
+dark red
+it is made of cloth
+shorter than my left foot
+blue
+it is not flat
+it is made of paper
+On my right.
+No.
+No.
+Donuts.
+In front of me.
+A helmet.
+No.
+Yes
+Both.
+On my right.
+On my left.
+No.
+On my left.
+Headphones.
+Left.
+Left.
+A brush.
+On my left.
+Left.
+On my right.
+Microwave oven.
+Card reader.
+Both.
+Left.
+Yes.
+In front of me.
+Yes.
+Left.
+On the table in front of me.
+Both.
+A golf ball.
+A wire fence.
+A red car.
+the left side.
+a little spade.
+A mirror.
+Grey.
+Left.
+Yoga mat.
+Left.
+green.
+right.
+left.
+Pipelines.
+right.
+A stick.
+right.
+three.
+boxes.
+On my left.
+One.
+Three.
+One.
+The second level.
+One.
+Two.
+First shelf.
+Two.
+One.
+One.
+It is four.
+Two.
+One.
+Two.
+Three.
+One.
+On my left.
+Two.
+More bowls on my right.
+One.
+One.
+One.
+One.
+One.
+Two.
+One.
+One.
+One.
+One.
+No.
+One.
+Two.
+No.
+Two.
+Yes.
+One.
+There are more planks on the left side of my left hand.
+One.
+No.
+Two.
+On the left of my right hand.
+One.
+Three.
+One.
+Two.
+Two.
+Three.
+Two.
+One.
+One.
+Play baseball.
+Cut the grass.
+Left.
+Downstairs.
+Open the cabinet.
+Take out the mushrooms.
+Cook.
+Open the lid of the bucket.
+Upstairs.
+Clothes.
+Roll the dough.
+Take out the cabbage.
+Open the fridge.
+Mop the floor.
+Iron the shirt
+Cut plants.
+Open the car door.
+Haircut.
+Paint the board.
+Fasten it.
+Measure the board.
+Wipe the cat.
+Paint the wall.
+Add water.
+Serve rice.
+Clean the desk.
+The white raddish.
+Inflate the tire.
+Yes.
+Into two pieces.
+Blue.
+On
+Yes.
+Milk foam.
+Cut lemon from the branch.
+Into the plank.
+In the pot.
+Yes.
+No.
+Water.
+Pour water.
+Peel the onion.
+Pour the noodle to the plate.
+Wash clothes.
+Soup.
+Yes.
+In the basket.
+Yes.
+Open it.
+Plant the tree.
+In the fridge.
+Coffee machine.
+Yes.
+Clean the floor.
+Yes.
+In the washing machine.
+Stir milk.
+On the desk.
+Pour the cement into the mixer.
+Yes.
+White.
+Two.
+No.
+Golden.
+Prune the leaves.
+Open the drawer.
+Remove the handle of the eggplant.
+Yes.
+Ice.
+Hot.
+Pour the ice to the cup.
+Softer.
+Yes.
+Empty the pot.
+larger.
+Put on my shoes.
+Plate.
+No.
+Cut the paper.
+Increase.
+Yes.
+Clean it.
+Wash the brush.
+Drier.
+Yes.
+The car.
+No.
+Paint on the paper.
+Cut it.
+Pick flowers.
+Yes.
+Lift the brown tool.
+IPad.
+Connect the wire to the lamp.
+Mow grass.
+Wash the car.
+Open the tap.
+Yes.
+To the bucket.
+Yes.
+The sink.
+The pot containing water.
+The porcelain plate.
+The cabinet far away from my right hand.
+The table in front of me.
+yes.
+No.
+The pot in my hand.
+The same as the number of phones in my hand.
+No
+The blue thing.
+The pot I'm holding.
+Yes.
+The pot.
+Color.
+One.
+Yes.
+Equal in number.
+The book.
+The black pillow.
+Banana.
+Green.
+The left one.
+On the table.
+The left one.
+The yellow one.
+The coffee.
+The white one.
+The thread in my hand.
+No.
+Same.
+Green.
+Different.
+There are more bowls on my right.
+On my left.
+To my left.
+No.
+Yes.
+Same type of items.
+Yes.
+On my right.
+There are less mats holding in my hands.
+There are less rocks on my left.
+No.
+The plank in my hands.
+The pen.
+The larger bowl.
+No.
+In my hands.
+On my left.
+In the kitchen.
+Living room.
+Cooking food.
+On the lawn.
+In the washroom.
+In the library.
+Car.
+In a lab.
+In a grocery.
+In the pharmacy.
+yes.
+Outdoor.
+No.
+No.
+Timber.
+Bed.
+In the backyard.
+Clothing store.
+In the parking lot.
+Cosmetic store.
+Forest.
+At the cashier.
+Yes.
+Car repair shop.
+By the window.
+In the dormitory.
+On the road.
+In the staircase.
+The dining room.
+No.
+Yes.
+yes.
+No.
+At home.
+On the balcony.
+Indoors.
+Camping.
+The study.
+In the barber shop.
+indoors.
+In a gym.
+In a car.
+On a golf course.
+On the country lane.
+Bakery.
+vineyard.
+outside.
+at school.
+In the fields.
+In the kitchen.
+standing on the ladder.
+Playing.
+To keep my hands from burning.
+In the living room.
+Chemistry.
+Break it.
+To feel the temperature of the pan.
+No.
+A Christmas tree.
+A shopping list.
+Yes.
+Going downstairs.
+To learn how to cook.
+No.
+Peeling the carrots.
+To the bowl.
+Brick mold.
+Right-handed.
+A cementer.
+Warehouse.
+having a party.
+In a shop.
+Yes.
+Yes.
+Yes.
+An elderly person.
+A coach.
+Viewing photos.
+Kitchen.
+No.
+No.
+A painting.
+It's myself.
+Checking the calendar.
+No.
+No.
+On the iPad.
+Yes.
+Study.
+Women.
+Right.
+Alive.
+Hot.
+the ceiling.
+my phone.
+ketchup.
+No.
+cooked.
+sitting.
+yes.
+a sneaker
+secateur
+screwdriver
+a wooden board
+yes
+A vacuum cleaner
+A hairclipper
+scissors
+Eggs
+a knife
+a hoe
+a steering wheel
+radish
+a bicycle tyre
+pasta
+bowls
+cactus
+a electirc drill
+a refrigerator
+yes
+yes
+yes
+chopsticks
+phone
+A bicycle
+yes
+yes
+yes
+yes
+a pot
+a guitar
+scissors
+a shovel
+a knife
+yes
+yes
+yes
+yes
+a spatula
+yes
+a pen
+a pot
+a cart
+a needle
+an iron
+branches
+yarn balls
+a mouse
+a fork
+skin-peeler
+yes
+painting
+yes
+painting the wall
+to protect my hands
+yes
+paint tray
+provide the time
+yes
+riding
+mowing
+serving food
+inflate a tire
+yes
+yes
+Controlling the water flow
+yes
+drink
+yes
+Eating food
+yes
+yes
+cutting
+weaving
+carrying belongings
+block light
+yes
+yes
+no
+no
+watering
+Mopping
+no
+bind objects
+cleaning
+yes
+yes
+holding water
+drawing vertical lines
+screwing
+filtering out the water
+braking
+smoothing the plank
+painting
+insulating heat
+peeling
+cleaning
+both
+I can use it to control direction
+cutting food
+Take the wrench on the thigh, and put it on the screw on the inside of the round object, then turn the wrench to loosen the screw.
+Count the number of plants in your hand, then select empty pots based on the number, and plant the plants in your hand into the pots.
+Walk to it and press down on the lid.
+Compare all the scissors, find the largest scissor which is near your right feet, and pick up this scissor.
+Pick up the cat, then turn around and walk out of the bathroom, putting the cat on the floor.
+Pick up the white bottle of milk which is on the desk, and pour the milk into the bowl in your left hand.
+Turn the thing in front of you (the steering wheel) to the right.
+Pick up the remote control and put it on the table, then pick up the magazine, open it and start reading.
+Pick up the meat and use the yellow tool (scissor) in your hand to cut the plastic wrap.
+Pick up the paper in your left hand and tear one piece of paper. Use this piece of paper to wipe the cup.
+Open the lid of the bottle, pick up the kettle, pour the water from the kettle into the bottle, and tighten the lid of the bottle.
+Go to the tripod and pick up the balloon on the ground. Then walk to the sofa and put the balloon in your hand on the sofa.
+Pick up the black cell phone on the glass table, walk over to the table with the TV, and put the black cell phone on this table.
+Tap it firmly against the edge of the bowl to crack the shell and then use your fingers to gently pull the two halves apart over the bowl.
+Large white transparent cup.
+Microwave on the right.
+The fridge.
+Find the position of the soy sauce, and pick one bottle of soy sauce.
+Put it into the sink, and turn on the faucet to rinse it.
+Raise your left wrist to wake the watch face or tap the screen, and then glance at the display to see the time.
+No
+Press the second floor button of the elevator, and when the elevator reaches the second floor and the door opens, step out of the elevator.
+Find the white plate with the chopped things on your right, pick up the white plate, and pour the contents of the plate into the pan.
+The glass. Find the location of the glass on the table, and pick it up.
+Turn on the faucet, apply dish soap to the items in your hands, and then rinse them under the faucet until there is no more foam.
+Open the lid of the container, locate the plate and pour the contents into the plate.
+Yes.
+Hold the thing in your left hand and use your hand to slide the knife under the skin and strip it away from the flesh.
+Place the paper on the cutting mat, put the knife on where you want to divide, and then press down and slide the blade across the paper.
+Put the branches between the scissor blades, squeeze the handles, and cut the branches.
+Open the tap, rinse it under running water, apply detergent on it, scrub it, and finally rinse again until the water runs clear.
+Use the tool in your hands to turn over the top layer of soil.
+Align its edge with the board, locate the 0 cm mark at the start, and mark the board at the 3 cm mark on it.
+Use your hand to apply pressure, and rub back and forth along the the wood.
+Hold the coconut firmly and apply pressure between the coconut and husk, then peel the husk.
+Spread it over the wall and smooth it using the tool holding in your right hand.
+Divide the cards into two piles and then mix them up, repeating several times.
+Walk straight until the car is next to you, put it on the floor of the car and lay it flat.
+Type your message using the keyboard, and then press the send button.
+Locate the card numbered 4, hold it between your fingers, and then place it to the pile on the desk.
+Take away the bottle on the scale, make sure the scale is turned on and set to zero, then place the thing in your hands on the scale's platform and read the weight.
+Open the bag with my left hand and insert the thing holding in your right hand, ensuring the bag is upright
+Flick the whip to the side to create a sound or gentle tap, making it to move forward without hitting it.
+Open the tap, rinse it under running water, apply detergent, scrub it with a sponge, and then rinse off the detergent.
+Put the paintbrush into the brown bottle which contains water, swirl the paintbrush in it for a few times, and then wipe it against the bottle's edge.
+Unscrew the cap of the bottle holding in your right hand, open the tap, hold it under a running tap until the bottle is full of water, turn off the tap and screw the cap on.
+Sweep it along the handrail's surface, ensuring you clean crevices and grooves to remove all the dust.
+Shape the thing in your hands into a mold on your right front, press it firmly, and then dry it in the sun until it hardens.
+Locate the handle, pull it using your right hand, and then push the door outward.
+Grip the handle of the thing holding in your right hand, swing the blade close to the ground to cut the grass.

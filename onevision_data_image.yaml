@@ -1,0 +1,8 @@
+datasets:
+  - image_root: /share/henry/llavaov_images/sharegpt4o
+    json_file: /share/henry/llavaov_json/sharegpt4o.json
+
+  - image_root: /share/henry/llavaov_images/sharegpt4v_coco
+    json_file: /share/henry/llavaov_json/sharegpt4v_coco.json
+
+
