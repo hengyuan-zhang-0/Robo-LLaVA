@@ -85,7 +85,7 @@ wandb
 runs/
 transformers/
 
-!lmms-eval
+
 
 scripts/logs/
 
