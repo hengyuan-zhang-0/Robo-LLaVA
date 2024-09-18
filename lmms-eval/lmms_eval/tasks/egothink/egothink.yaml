@@ -1,0 +1,49 @@
+dataset_path: ShadeHamilton/EGO-ROBO
+task: egothink
+dataset_kwargs:
+  token: True
+  # video: True  #此处指有huggingface上的dataset含video_cache
+test_split: test
+output_type: generate_until
+
+#TODO
+doc_to_visual: !function utils.egothink_doc_to_images
+doc_to_text: !function utils.egothink_doc_to_text
+doc_to_target: !function utils.egothink_doc_to_target #"answer"
+
+
+#TODO The return value of process_results will be used by metrics
+process_results: !function utils.robovqa_process_results
+
+lmms_eval_specific_kwargs:
+  default:
+    pre_prompt: ""
+    post_prompt: ""
+
+#TODO 修改参数
+generation_kwargs:
+  max_new_tokens: 1024  #TODO
+  temperature: 0.2
+  top_p: 0
+  num_beams: 1 
+  do_sample: True
+  # modalities: ["video"]
+
+#TODO 参考refcoco
+metric_list:
+  - metric: BLEU-1
+    aggregation: !function utils.robovqa_aggregate_res_bleu_1
+    higher_is_better: true
+  - metric: BLEU-2
+    aggregation: !function utils.robovqa_aggregate_res_bleu_2
+    higher_is_better: true
+  - metric: BLEU-3
+    aggregation: !function utils.robovqa_aggregate_res_bleu_3
+    higher_is_better: true
+  - metric: BLEU-4  
+    aggregation: !function utils.robovqa_aggregate_res_bleu_4
+    higher_is_better: true
+  
+
+metadata:
+  - version: 0.0
