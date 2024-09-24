@@ -252,7 +252,8 @@ def evaluate(
             else:
                 raise RuntimeError("Task has neither test_docs nor validation_docs")
             limit = int(len(task_docs) * limit) if limit < 1.0 else int(limit)
-
+        # import pdb
+        # pdb.set_trace()
         task.build_all_requests(limit=limit, rank=lm.rank, world_size=lm.world_size)
 
         eval_logger.debug(f"Task: {task_name}; number of requests on rank {lm.rank}: {len(task.instances)}")
@@ -286,6 +287,7 @@ def evaluate(
         eval_logger.info("Running {} requests".format(reqtype))
         # create `K` copies of each request `req` based off `K = req.repeats`
         cloned_reqs = []
+
         for req in reqs:
             cloned_reqs.extend([req] * req.repeats)
 

@@ -520,6 +520,9 @@ yaml.add_constructor("!function", import_function)
 
 
 def load_yaml_config(yaml_path=None, yaml_config=None, yaml_dir=None):
+    # if yaml_path =='/home/henry/LLaVA-NeXT/lmms-eval/lmms_eval/tasks/egothink/egothink.yaml':
+    #     import pdb
+    #     pdb.set_trace()
     if yaml_config is None:
         with open(yaml_path, "rb") as file:
             yaml_config = yaml.full_load(file)

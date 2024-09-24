@@ -14,6 +14,9 @@ from loguru import logger as eval_logger
 
 
 def ok_vqa_doc_to_visual(doc):
+    # import pdb
+    # pdb.set_trace()
+
     return [doc["image"].convert("RGB")]
 
 

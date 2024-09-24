@@ -46,7 +46,7 @@ def register_task(name):
         ALL_TASKS.add(name)
         func2task_index[fn.__name__] = name
         return fn
-
+    
     return decorate
 
 

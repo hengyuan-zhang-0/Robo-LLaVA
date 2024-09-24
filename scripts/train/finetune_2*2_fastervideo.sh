@@ -13,7 +13,7 @@ PROMPT_VERSION="qwen_1_5"  #or "qwen_2"
 BASE_RUN_NAME="llavanext-${VISION_MODEL_VERSION_CLEAN}-${LLM_VERSION_CLEAN}-mlp2x_gelu-pretrain_blip558k_plain"
 
 NUM_GPUS=8
-NNODES=8
+NNODES=16
 LR=1e-5
 BS=4
 ACC_STEP=2
@@ -32,7 +32,7 @@ echo "日志文件: $LOG_FILE"
 # LLM_PATH='/home/henry/mllm_checkpoints/Qwen2-7B-Instruct'
 #ACCELERATE_CPU_AFFINITY=1 torchrun --nproc_per_node="${NUM_GPUS}" --nnodes="${NNODES}" --node_rank="${RANK}" --master_addr="${ADDR}" --master_port="${PORT}" \
     #CUDA_VISIBLE_DEVICES=0 
-    deepspeed --num_gpus $NUM_GPUS --num_nodes $NNODES --hostfile hostfile_8 llava/train/train_mem.py \
+    deepspeed --num_gpus $NUM_GPUS --num_nodes $NNODES --hostfile hostfile_$NNODES llava/train/train_mem.py \
     --model_name_or_path '/home/huggingface/hub/models--Qwen--Qwen2-7B-Instruct/snapshots/f2826a00ceef68f0f2b946d945ecc0477ce4450c'  \
     --version ${PROMPT_VERSION} \
     --data_path ./data_config/instruct_FT.yaml\

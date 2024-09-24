@@ -1,18 +1,18 @@
 dataset_path: lmms-lab/POPE
 dataset_kwargs:
   token: True
-task: "pope"
+task: pope
 test_split: test
 output_type: generate_until
 doc_to_visual: !function utils.pope_doc_to_visual
 doc_to_text: !function utils.pope_doc_to_text
 doc_to_target: "answer"
 generation_kwargs:
-  max_new_tokens: 128
-  temperature: 0
-  top_p: 1.0
-  num_beams: 1
-  do_sample: false
+  max_new_tokens: 1024  #TODO
+  temperature: 0.2
+  top_p: 0
+  num_beams: 1 
+  do_sample: True
 process_results: !function utils.pope_process_results
 metric_list:
   - metric: pope_accuracy

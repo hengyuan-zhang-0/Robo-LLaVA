@@ -566,6 +566,8 @@ class ConfigurableTask(Task):
         self._prepare_metric_and_aggregation()
 
         self.download(self.config.dataset_kwargs)
+        # import pdb
+        # pdb.set_trace()
         self._training_docs = None
         self._fewshot_docs = None
 
@@ -690,6 +692,8 @@ class ConfigurableTask(Task):
                     self._metric_fn_list[metric_name] = metric_fn
                     self._metric_fn_kwargs[metric_name] = kwargs
                 else:
+                    # import pdb
+                    # pdb.set_trace()
                     self._metric_fn_list[metric_name] = METRIC_REGISTRY[metric_name]
                     self._metric_fn_kwargs[metric_name] = kwargs
 

@@ -234,6 +234,8 @@ def cli_evaluate(args: Union[argparse.Namespace, None] = None) -> None:
 
 def cli_evaluate_single(args: Union[argparse.Namespace, None] = None) -> None:
     initialize_tasks(args.verbosity)
+    # import pdb
+
 
     if args.predict_only:
         args.log_samples = True
@@ -241,7 +243,8 @@ def cli_evaluate_single(args: Union[argparse.Namespace, None] = None) -> None:
         raise ValueError("Specify --output_path if providing --log_samples or --predict_only")
     if args.limit:
         eval_logger.warning(" --limit SHOULD ONLY BE USED FOR TESTING." "REAL METRICS SHOULD NOT BE COMPUTED USING LIMIT.")
-        
+    
+
     #TODO 此处会把我们注册的tasks 检索到，然后进行初始化
     if args.include_path is not None:
         eval_logger.info(f"Including path: {args.include_path}")
@@ -252,9 +255,10 @@ def cli_evaluate_single(args: Union[argparse.Namespace, None] = None) -> None:
             package_tasks_location = importlib.util.find_spec(f"{plugin}.tasks").submodule_search_locations[0]
             eval_logger.info(f"Including path: {args.include_path}")
             include_path(package_tasks_location)
-
+ 
     if args.tasks is None:
         task_names = ALL_TASKS
+
     elif args.tasks == "list":
         eval_logger.info("Available Tasks:\n - {}".format(f"\n - ".join(sorted(ALL_TASKS))))
         sys.exit()
@@ -279,8 +283,8 @@ def cli_evaluate_single(args: Union[argparse.Namespace, None] = None) -> None:
         tasks_list = args.tasks.split(",")
         eval_logger.info(f"Evaluating on {len(tasks_list)} tasks.")
         task_names = utils.pattern_match(tasks_list, ALL_TASKS)
-        task_missing = [task for task in tasks_list if task not in task_names and "*" not in task]  # we don't want errors if a wildcard ("*") task name was used
 
+        task_missing = [task for task in tasks_list if task not in task_names and "*" not in task]  # we don't want errors if a wildcard ("*") task name was used
         if task_missing:
             missing = ", ".join(task_missing)
             eval_logger.error(

@@ -35,7 +35,7 @@ MID_RUN_NAME='llava-onevision-qwen2-7b-ov-robovqa-v3'
 
 #ACCELERATE_CPU_AFFINITY=1 torchrun --nproc_per_node="${NUM_GPUS}" --nnodes="${NNODES}" --node_rank="${RANK}" --master_addr="${ADDR}" --master_port="${PORT}" \
     #CUDA_VISIBLE_DEVICES=0
-    deepspeed llava/train/train_mem.py \
+    CUDA_VISIBLE_DEVICES=0,1 deepspeed llava/train/train_mem.py \
     --deepspeed scripts/zero2.json \
     --model_name_or_path ${BASE_MODEL_PATH} \
     --version ${PROMPT_VERSION} \

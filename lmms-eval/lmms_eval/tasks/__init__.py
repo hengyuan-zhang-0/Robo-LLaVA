@@ -26,6 +26,7 @@ def register_configurable_task(config: Dict[str, str]) -> int:
         {"CONFIG": TaskConfig(**config)},
     )
 
+    # print(config)
     if "task" in config:
         task_name = "{}".format(config["task"])
         register_task(task_name)(SubClass)
@@ -69,13 +70,18 @@ def include_task_folder(task_dir: str, register_task: bool = True) -> None:
     """
     Calling this function
     """
+
+
+
     for root, subdirs, file_list in os.walk(task_dir):
         # if (subdirs == [] or subdirs == ["__pycache__"]) and (len(file_list) > 0):
+        # if root=="/home/henry/LLaVA-NeXT/lmms-eval/lmms_eval/tasks/egothink":
+        #     import pdb
+        #     pdb.set_trace()
+
         for f in file_list:
-            # if "detail" in f:
-            #
-            # if "vatex" in f:
-            #     print("a")
+
+            
             if f.endswith(".yaml"):
                 yaml_path = os.path.join(root, f)
                 try:
@@ -124,6 +130,7 @@ def initialize_tasks(verbosity="INFO"):
 
 def get_task(task_name, model_name):
     try:
+
         return TASK_REGISTRY[task_name](model_name=model_name)  # TODO choiszt the return result need to check " 'mmeConfigurableTask' object has no attribute '_instances'. Did you mean: 'instances'?"
     except KeyError:
         eval_logger.info("Available tasks:")
@@ -148,7 +155,6 @@ def get_task_dict(task_name_list: List[Union[str, Dict, Task]], model_name: str)
     # Ensure task_name_list is a list to simplify processing
     if not isinstance(task_name_list, list):
         task_name_list = [task_name_list]
-
     for task_element in task_name_list:
         if isinstance(task_element, str) and task_element in GROUP_REGISTRY:
             group_name = task_element

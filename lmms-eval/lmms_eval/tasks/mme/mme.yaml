@@ -1,7 +1,7 @@
 dataset_path: lmms-lab/MME
 dataset_kwargs:
   token: True
-task: "mme"
+task: mme
 test_split: test
 output_type: generate_until
 doc_to_visual: !function utils.mme_doc_to_visual

@@ -61,7 +61,7 @@ if version.parse(torch.__version__) >= version.parse("2.1.2"):
 else:
     best_fit_attn_implementation = "eager"
 
-
+import pdb
 @register_model("llava_onevision")
 class Llava_OneVision(lmms):
     """
@@ -149,7 +149,9 @@ class Llava_OneVision(lmms):
             self._tokenizer, self._model, self._image_processor, self._max_length = load_pretrained_model(pretrained, None, model_name, device_map=self.device_map, **llava_model_args)
 
         self._config = self._model.config
+        
         self.model.eval()
+        # self.model = self.model.half()
         self.truncation = truncation
         self.batch_size_per_gpu = int(batch_size)
         self.conv_template = conv_template
@@ -190,7 +192,8 @@ class Llava_OneVision(lmms):
             self.model.to(self._device)
             self._rank = 0
             self._world_size = 1
-
+        # self._model = self._model.to(dtype=torch.float32)
+        
     @property
     def config(self):
         # return the associated transformers.AutoConfig for the given pretrained model.
@@ -258,17 +261,22 @@ class Llava_OneVision(lmms):
 
     def loglikelihood(self, requests: List[Instance]) -> List[Tuple[float, bool]]:
         # TODO
+
         res = []
         pbar = tqdm(total=len(requests), disable=(self.rank != 0), desc="Model Responding")
         for contexts, doc_to_target, doc_to_visual, doc_id, task, split in [reg.args for reg in requests]:
+
+
             if len(visual) > 1 or "image_aspect_ratio" not in self._config.__dict__:  # for multi image case, we treat per image aspect ratio as "pad" by default.
                 self._config.image_aspect_ratio = getattr(gen_kwargs, "image_aspect_ratio", "pad")
                 eval_logger.info(f"Setting image aspect ratio: {self._config.image_aspect_ratio}")
+            
+            
             # if (len(visual) > 1 or "image_aspect_ratio" not in self._config.__dict__) and ("image_aspect_ratio" in gen_kwargs.keys()):
             #     self._config.image_aspect_ratio = gen_kwargs["image_aspect_ratio"]
             #     eval_logger.info(f"Setting image aspect ratio: {self._config.image_aspect_ratio}")
 
-            if type(visual[0]) == PIL.Image.Image:  # For image task
+            if (type(visual[0]) == PIL.PngImagePlugin.PngImageFile or type(visual[0]) == PIL.Image.Image ) :  # For image task
                 image_tensor = process_images(visual, self._image_processor, self._config)
                 if type(image_tensor) is list:
                     image_tensor = [_image.to(dtype=torch.float16, device=self.device) for _image in image_tensor]
@@ -304,11 +312,13 @@ class Llava_OneVision(lmms):
                     if len(visual) > 1 or "image_aspect_ratio" not in self._config.__dict__:  # for multi image case, we treat per image aspect ratio as "pad" by default.
                         self._config.image_aspect_ratio = "pad"
                         eval_logger.info(f"Setting image aspect ratio: {self._config.image_aspect_ratio}")
+                   
+                   
                     # if (len(visual) > 1 or "image_aspect_ratio" not in self._config.__dict__) and ("image_aspect_ratio" in gen_kwargs.keys()):
                     #     self._config.image_aspect_ratio = gen_kwargs["image_aspect_ratio"]
                     #     eval_logger.info(f"Setting image aspect ratio: {self._config.image_aspect_ratio}")
 
-                    if type(visual) == PIL.Image.Image:  # For image task
+                    if (type(visual[0]) == PIL.PngImagePlugin.PngImageFile or type(visual[0]) == PIL.Image.Image ) :  # For image task
                         image = process_images([visual], self._image_processor, self._config)
                         if type(image) is list:
                             image = [_image.to(dtype=torch.float16, device=self.device) for _image in image]
@@ -449,15 +459,18 @@ class Llava_OneVision(lmms):
             question_input = []
 
             for visual, context in zip(batched_visuals, batched_contexts):
+
                 if len(visual) > 1 or "image_aspect_ratio" not in self._config.__dict__:  # for multi image case, we treat per image aspect ratio as "pad" by default.
                     self._config.image_aspect_ratio = getattr(gen_kwargs, "image_aspect_ratio", "pad")
                     eval_logger.info(f"Setting image aspect ratio: {self._config.image_aspect_ratio}")
                 
-                if len(visual) == 0: # For textonly task
-                    image_tensor = None
-                    task_type = 'textonly'
+                # if len(visual) == 0: # For textonly task
+                #     image_tensor = None
+                #     task_type = 'textonly'
+                # dai
+                if (type(visual[0]) == PIL.PngImagePlugin.PngImageFile or type(visual[0]) == PIL.Image.Image ) and "task_type" not in metadata and "sample_frames" not in metadata:  # For image task
+               
 
-                if type(visual[0]) == PIL.Image.Image and "task_type" not in metadata and "sample_frames" not in metadata:  # For image task
                     image_tensor = process_images(visual, self._image_processor, self._config)
                     if type(image_tensor) is list:
                         image_tensor = [_image.to(dtype=torch.float16, device=self.device) for _image in image_tensor]
@@ -597,12 +610,18 @@ class Llava_OneVision(lmms):
                 gen_kwargs.pop("image_aspect_ratio")
             try:
                 with torch.inference_mode():
+                    # self._model = self._model.to(dtype=torch.float32)
+                    # for param in self._model.parameters():
+                    #     print(f"Parameter dtype: {param.dtype}")
+                    #     break 
                     cont = self.model.generate(input_ids, attention_mask=attention_masks, pad_token_id=pad_token_ids, images=image_tensor, use_cache=self.use_cache, **gen_kwargs)
                     # cont = self.model.generate(qwen_input_ids, pad_token_id=pad_token_ids, images=image_tensor, use_cache=self.use_cache, **gen_kwargs)
 
                 text_outputs = self.tokenizer.batch_decode(cont, skip_special_tokens=True)
+                # print(text_outputs)
             except Exception as e:
-                raise e
+                text_outputs = ['']
+                #raise e
 
             text_outputs = [response.strip() for response in text_outputs]
             res.extend(text_outputs)

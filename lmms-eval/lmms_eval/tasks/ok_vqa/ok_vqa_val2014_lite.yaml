@@ -1,15 +1,23 @@
-group: ok_vqa
-task: ok_vqa_val2014_lite
+task: ok_vqa
 test_split: lite 
 dataset_path: lmms-lab/LMMs-Eval-Lite
 dataset_name: ok_vqa_val2014
 output_type: generate_until
+dataset_kwargs:
+  token: True
+  
 doc_to_visual: !function utils.ok_vqa_doc_to_visual
 doc_to_text: !function utils.ok_vqa_doc_to_text
 doc_to_target: "answer"
+
 generation_kwargs:
-  until:
-    - "ASSISTANT:"
+  max_new_tokens: 1024  #TODO
+  temperature: 0.2
+  top_p: 0
+  num_beams: 1 
+  do_sample: True
+  # modalities: ["video"]
+
 metric_list:
   - metric: exact_match
     aggregation: mean

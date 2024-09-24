@@ -1,7 +1,7 @@
 dataset_path: lmms-lab/MMVet
 dataset_kwargs:
   token: True
-task: "mmvet"
+task: mmvet
 test_split: test
 output_type: generate_until
 doc_to_visual: !function utils.mmvet_doc_to_visual
